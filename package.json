@@ -1,0 +1,11 @@
+{
+  "name": "youtube-clone",
+  "version": "1.0.0",
+  "description": "A YouTube clone using Vanilla JavaScript, NodeJS, MongoDB and many other small solutions",
+  "main": "index.js",
+  "author": "@iconichal",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
